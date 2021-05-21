@@ -1,9 +1,9 @@
 ---
-layout: cv
-title: Wode "Nimo" Ni
+layout: Resume
+title: Long PengZhen 
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
+  url: mailto:LongPz2016@outlook.com
+  text: LongPz2016@outlook.com
 homepage:
   url: http://cs.cmu.edu/~woden
   text: cs.cmu.edu/~woden
