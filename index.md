@@ -4,7 +4,7 @@ title: Long PengZhen
 email:
   url: mailto:LongPz2016@outlook.com
   text: LongPz2016@outlook.com
-Cellphone:
+phone:
   url: callto:18207338742
   text: 18207338742
 ---
